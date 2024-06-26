@@ -1,0 +1,105 @@
+nav {
+    display: flex;
+}
+nav img {
+    width: 200px;
+    margin-left: 150px;
+}
+nav ul {
+    display: flex;
+    margin-left: 400px;
+    margin-top: 15px;
+}
+nav ul li {
+    margin: 15px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+.Accueil{
+    color: red;
+}
+nav ul li a {
+    color: blue;
+}
+.title {
+    color: blue;
+    text-align: center;
+    font-weight: 200;
+    font-size: 37px;
+}
+.paragraphe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.paragraphe div{
+    margin: 15px;
+    width: 450px;
+    
+}
+.section2 {
+    height: 400px;
+    width: 100%;
+    background-color: rgb(100, 164, 237);
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    
+}
+.section21 {
+    width: 400px;
+    margin-left: 10px;
+}
+.section21 img {
+    width: 400px;
+}
+.section22 {
+
+}
+.section221 {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+}
+.section221 div {
+    height: 200px;
+    width: 350px;
+    background: rgba(255, 255, 255, 0.774);
+    margin-left: 20px;
+}
+.sect1 {
+    margin-top: 40px;
+}
+.sect2 {
+    margin-top: 30px;
+}
+.sect1h {
+    text-align: center;
+    color: blue;
+}
+.sect1p {
+    text-align: center;
+}
+.sect2h {
+    text-align: center;
+    color: blue;
+}
+.sect2p {
+    text-align: center;
+}
+.title2 {
+    color: blue;
+    text-align: center;
+    font-weight: 300;
+}
+.paragraphe {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.paragraphe div {
+    margin: 15px;
+    width: 450px;
+}
